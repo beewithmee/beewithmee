@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beewithmee
+- 👋 Hi, I’m Satyam Kohli
 - 👀 I’m interested in Data Analyst role
 - 🌱 I’m proficient in SQL, Excel, Power BI, Exploratory Data Analysis and Python
 - 💞️ I’m looking to collaborate on ne data anlysis project to showcase and develop my skills
